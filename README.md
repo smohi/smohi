@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sourov Mohiuddin!
+# 👋 Hey there, I'm Sourov Mohiuddin (ショウロブ)!
 
 - 🔍 Passionate about turning data into actionable insights.
 - 💻 Exploring the fascinating world of **Machine Learning** & **Data Science**.
